@@ -1,0 +1,54 @@
+html{ 
+	
+	background: url(back.jpg) no-repeat center fixed;
+	background-size: cover;
+	}
+
+	.pro-pic{ 
+	width:180px;
+	color:white;
+	height:250px;
+	background:#999;
+	padding: 2px;
+	
+	}
+	.pro-pic2{ 
+	width:500px;
+	color:white;
+	height:300px;
+	background:#999;
+	padding: 2px;
+	
+	}
+	.pro-pic3{ 
+	width:250px;
+	color:white;
+	height:300px;
+	background:#999;
+	padding: 2px;
+	
+	}
+	.pro-pic4{ 
+	width:800px;
+	color:white;
+	height:500px;
+	background:#999;
+	padding: 2px;
+	
+	}
+	.pro-pic5{ 
+	width:800px;
+	color:white;
+	height:500px;
+	background:#999;
+	padding: 2px;
+	
+	}
+	.pro-pic6{ 
+	width:800px;
+	color:white;
+	height:500px;
+	background:#999;
+	padding: 2px;
+	
+	}
